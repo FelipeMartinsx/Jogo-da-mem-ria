@@ -1,2 +1,2 @@
-# Jogo-da-mem-ria
+# Jogo-da-memoria
 jogo da memória criado com Javascript, CSS grid e HTML
